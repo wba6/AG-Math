@@ -3,7 +3,7 @@
 
 namespace AG
 {
-    struct API Vec3D {
+    struct Vec3D {
         float x, y, z;
 
         Vec3D() = default;

@@ -3,7 +3,7 @@
 #include <cmath>
 namespace AG
 {
-    struct API Vec2D {
+    struct Vec2D {
         float x, y;
 
         Vec2D() = default;

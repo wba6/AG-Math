@@ -5,7 +5,7 @@
 
 namespace AG
 {
-    struct API Mat3D {
+    struct Mat3D {
     private:
         float n[3][3];
 
