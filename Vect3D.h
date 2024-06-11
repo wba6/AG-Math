@@ -1,5 +1,6 @@
 #pragma once
 #include "Execptions.h"
+#include <math.h>
 
 namespace AG
 {

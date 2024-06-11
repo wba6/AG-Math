@@ -1,6 +1,6 @@
 #pragma once
 #include "Execptions.h"
-#include <cmath>
+#include <math.h>
 namespace AG
 {
     struct Vec2D {
