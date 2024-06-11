@@ -3,7 +3,7 @@
 #include "Execptions.h"
 #include "Vect3D.h"
 
-namespace Agate
+namespace AG
 {
     struct API Mat3D {
     private:
@@ -92,4 +92,4 @@ namespace Agate
                       (M(1, 0) * v.x + M(1, 1) * v.y + M(1, 2) * v.z),
                       (M(2, 0) * v.x + M(2, 1) * v.y + M(2, 2) * v.z)));
     }
-}// namespace Agate
+}// namespace AG

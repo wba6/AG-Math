@@ -1,7 +1,7 @@
 #pragma once
 #include "Execptions.h"
 
-namespace Agate
+namespace AG
 {
     struct API Vec3D {
         float x, y, z;
@@ -134,4 +134,4 @@ namespace Agate
     {
         return (a - b * (Dot(a, b) / Dot(b, b)));
     }
-}// namespace Agate
+}// namespace AG
